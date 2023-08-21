@@ -1,1 +1,1 @@
-# digitalocean_practice_excercises
+# Digitalocean_practice_excercises
